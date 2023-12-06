@@ -2,4 +2,5 @@
 
 
 
-![изображение](https://github.com/Daniil-l17/Weather-React/assets/129774580/ef86bea7-2dd0-4bc6-b6e0-e4fb120b0528)
+![изображение](https://github.com/Daniil-l17/Weather-React/assets/129774580/66d27ce3-293d-4d0e-95ea-46c6a9053094)
+
