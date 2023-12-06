@@ -1,0 +1,44 @@
+
+.container{
+  margin: 0 auto;
+  max-width: 1230px;
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 77px;
+}
+
+
+.mn{
+  height: 100vh;
+  position: relative;
+  &::after{
+    content: "";
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    background-image: url('./../../src/img/snow.gif');
+    background-position: center;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 60%;
+    z-index: -49;
+  }
+}
+
+.vzd:hover{
+  color: gold;
+  cursor: pointer;
+  border-bottom: 1px solid gold;
+  transition: 0.4s all ease-in;
+  border-radius: 5px;
+}
+
+.active{
+  color: gold;
+  cursor: pointer;
+}
+
